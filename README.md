@@ -1,4 +1,4 @@
-# Computational Geometry (Tufts COMP163/MATH181) Final Project
+# Computational Geometry Final Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pjrule/comp163-project/blob/master/Low-dimensional%20linear%20programming.ipynb)
 
